@@ -1,0 +1,46 @@
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\bin\Release\MTM.dll.config
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\bin\Release\MTM.dll
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\bin\Release\MTM.pdb
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\obj\Release\MTM.dll
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\obj\Release\MTM.pdb
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\MTM\bin\Release\MTM.dll.config
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\MTM\bin\Release\MTM.dll
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\MTM\bin\Release\MTM.pdb
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\MTM\obj\Release\MTM.dll
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\MTM\obj\Release\MTM.pdb
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\DMS\MTM\bin\Release\MTM.dll.config
+C:\Users\Jonathan\Desktop\DMS\MTM\bin\Release\MTM.dll
+C:\Users\Jonathan\Desktop\DMS\MTM\bin\Release\MTM.pdb
+C:\Users\Jonathan\Desktop\DMS\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\DMS\MTM\obj\Release\MTM.dll
+C:\Users\Jonathan\Desktop\DMS\MTM\obj\Release\MTM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\bin\Release\MTM.dll.config
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\bin\Release\MTM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\bin\Release\MTM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\obj\Release\MTM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\obj\Release\MTM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\MTM\bin\Release\MTM.dll.config
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\MTM\bin\Release\MTM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\MTM\bin\Release\MTM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\MTM\obj\Release\MTM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\MTM\obj\Release\MTM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\MTM\bin\Release\MTM.dll.config
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\MTM\bin\Release\MTM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\MTM\bin\Release\MTM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\MTM\obj\Release\MTM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\MTM\obj\Release\MTM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\bin\Release\MTM.dll.config
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\bin\Release\MTM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\bin\Release\MTM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\bin\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\bin\Release\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\obj\Release\MTM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\obj\Release\MTM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\bin\Release\CapaLog.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\MTM\bin\Release\CapaLog.pdb

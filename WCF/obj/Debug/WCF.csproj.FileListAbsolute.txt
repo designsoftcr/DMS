@@ -1,0 +1,10 @@
+C:\Users\Jonathan\Desktop\DMS\WCF\bin\WCF.dll
+C:\Users\Jonathan\Desktop\DMS\WCF\bin\WCF.pdb
+C:\Users\Jonathan\Desktop\DMS\WCF\obj\Debug\WCF.dll
+C:\Users\Jonathan\Desktop\DMS\WCF\obj\Debug\WCF.pdb
+C:\Users\Jonathan\Desktop\DMS\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\bin\WCF.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\bin\WCF.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Debug\WCF.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Debug\WCF.pdb

@@ -1,0 +1,25 @@
+C:\Users\Jonathan\Desktop\DMS\WCF\bin\WCF.dll
+C:\Users\Jonathan\Desktop\DMS\WCF\bin\WCF.pdb
+C:\Users\Jonathan\Desktop\DMS\WCF\obj\Release\WCF.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\DMS\WCF\obj\Release\WCF.dll
+C:\Users\Jonathan\Desktop\DMS\WCF\obj\Release\WCF.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\bin\WCF.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\bin\WCF.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Release\WCF.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Release\WCF.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Release\WCF.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WCF\bin\WCF.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WCF\bin\WCF.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WCF\obj\Release\WCF.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WCF\obj\Release\WCF.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WCF\obj\Release\WCF.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WCF\bin\WCF.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WCF\bin\WCF.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WCF\obj\Release\WCF.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WCF\obj\Release\WCF.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WCF\obj\Release\WCF.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WCF\bin\WCF.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WCF\bin\WCF.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WCF\obj\Release\WCF.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WCF\obj\Release\WCF.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WCF\obj\Release\WCF.pdb

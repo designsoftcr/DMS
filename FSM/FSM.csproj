@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E95F762B-5B82-49F2-A33C-92D904C32873}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FSM</RootNamespace>
+    <AssemblyName>FSM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BC\DDL\FilesBC.cs" />
+    <Compile Include="BC\DDL\LogBC.cs" />
+    <Compile Include="BC\DDL\ProfilesBC.cs" />
+    <Compile Include="BC\DMO\PeopleBC.cs" />
+    <Compile Include="BE\DDL\FilesBE.cs" />
+    <Compile Include="BE\DDL\LogBE.cs" />
+    <Compile Include="BE\DDL\ProfilesBE.cs" />
+    <Compile Include="BE\DMO\PeopleBE.cs" />
+    <Compile Include="DAC\DDL\FilesDAC.cs" />
+    <Compile Include="DAC\DDL\LogDAC.cs" />
+    <Compile Include="DAC\DDL\ProfilesDAC.cs" />
+    <Compile Include="DAC\DMO\PeopleDAC.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaLog\CapaLog.vbproj">
+      <Project>{ad078cfc-58d7-4fdd-8e05-a3cbad3662de}</Project>
+      <Name>CapaLog</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System.Web.Data.Cloud\System.Web.Data.Cloud.csproj">
+      <Project>{1a5d50f9-cde8-4253-9d64-a53072e55389}</Project>
+      <Name>System.Web.Data.Cloud</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

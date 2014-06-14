@@ -1,0 +1,175 @@
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\WEB.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\WEB.pdb
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.Core.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\EntityFramework.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\FSM.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\MTM.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\System.Web.Providers.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\System.Net.Http.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\FSM.pdb
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\MTM.pdb
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\EntityFramework.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.Core.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\bin\System.Net.Http.xml
+C:\Users\Jonathan\Desktop\DMS\WEB\obj\Release\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\DMS\WEB\obj\Release\WEB.dll
+C:\Users\Jonathan\Desktop\DMS\WEB\obj\Release\WEB.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\WEB.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\WEB.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.AspNet.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.Core.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.OAuth.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.OpenId.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\EntityFramework.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\FSM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\MTM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Web.Providers.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Net.Http.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\FSM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\MTM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\EntityFramework.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.Core.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.OAuth.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.OpenId.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\DotNetOpenAuth.AspNet.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Net.Http.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\obj\Release\WEB.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\obj\Release\WEB.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\obj\Release\WEB.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\WEB.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\WEB.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.Core.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\EntityFramework.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\FSM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\MTM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\System.Web.Providers.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\System.Web.Data.Cloud.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\System.Net.Http.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\FSM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\MTM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\EntityFramework.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.Core.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\System.Web.Data.Cloud.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\bin\System.Net.Http.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\obj\Release\WEB.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\obj\Release\WEB.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\WEB\obj\Release\WEB.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\WEB.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\WEB.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.Core.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\EntityFramework.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\FSM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\MTM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\System.Web.Providers.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\System.Web.Data.Cloud.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\System.Net.Http.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\FSM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\MTM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\EntityFramework.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.Core.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\System.Web.Data.Cloud.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\bin\System.Net.Http.xml
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\obj\Release\WEB.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\obj\Release\WEB.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\WEB\obj\Release\WEB.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\WEB.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\WEB.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.AspNet.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.Core.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OAuth.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OpenId.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\EntityFramework.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\FSM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\MTM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\System.Web.Providers.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\System.Net.Http.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\FSM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\MTM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\EntityFramework.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.Core.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OAuth.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OpenId.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\DotNetOpenAuth.AspNet.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\System.Net.Http.xml
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\obj\Release\WEB.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\obj\Release\WEB.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\obj\Release\WEB.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\CapaLog.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\WEB\bin\CapaLog.pdb

@@ -1,0 +1,17 @@
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\bin\Debug\MTM.dll.config
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\bin\Debug\MTM.dll
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\bin\Debug\MTM.pdb
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\obj\Debug\MTM.dll
+C:\Users\Jonathan\Desktop\FontSistemas\MTM\obj\Debug\MTM.pdb
+C:\Users\Jonathan\Desktop\DMS\MTM\bin\Debug\MTM.dll.config
+C:\Users\Jonathan\Desktop\DMS\MTM\bin\Debug\MTM.dll
+C:\Users\Jonathan\Desktop\DMS\MTM\bin\Debug\MTM.pdb
+C:\Users\Jonathan\Desktop\DMS\MTM\obj\Debug\MTM.dll
+C:\Users\Jonathan\Desktop\DMS\MTM\obj\Debug\MTM.pdb
+C:\Users\Jonathan\Desktop\DMS\MTM\obj\Debug\MTM.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\bin\Debug\MTM.dll.config
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\bin\Debug\MTM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\bin\Debug\MTM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\obj\Debug\MTM.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\obj\Debug\MTM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\MTM\obj\Debug\MTM.pdb

@@ -1,0 +1,27 @@
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\PocketAssets_2013_20_Real\SPocketAssets\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\PocketAssets_2013_20_Real\SPocketAssets\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\PocketAssets_2013_20_Real\SPocketAssets\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\PocketAssets_2013_20_Real\SPocketAssets\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\PocketAssets_2013_20_Real\SPocketAssets\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\bin\Release\CapaLog.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\bin\Release\CapaLog.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.pdb

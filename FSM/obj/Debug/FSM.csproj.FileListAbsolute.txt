@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Desktop\FontSistemas\FSM\bin\Debug\FSM.dll
+C:\Users\Jonathan\Desktop\FontSistemas\FSM\bin\Debug\FSM.pdb
+C:\Users\Jonathan\Desktop\FontSistemas\FSM\obj\Debug\FSM.dll
+C:\Users\Jonathan\Desktop\FontSistemas\FSM\obj\Debug\FSM.pdb
+C:\Users\Jonathan\Desktop\DMS\FSM\bin\Debug\FSM.dll
+C:\Users\Jonathan\Desktop\DMS\FSM\bin\Debug\FSM.pdb
+C:\Users\Jonathan\Desktop\DMS\FSM\obj\Debug\FSM.dll
+C:\Users\Jonathan\Desktop\DMS\FSM\obj\Debug\FSM.pdb
+C:\Users\Jonathan\Desktop\DMS\FSM\obj\Debug\FSM.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\bin\Debug\FSM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\bin\Debug\FSM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\obj\Debug\FSM.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\obj\Debug\FSM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\obj\Debug\FSM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\bin\Debug\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\bin\Debug\System.Web.Data.Cloud.pdb

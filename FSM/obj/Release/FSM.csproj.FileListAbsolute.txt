@@ -1,0 +1,43 @@
+C:\Users\Jonathan\Desktop\FontSistemas\FSM\bin\Release\FSM.dll
+C:\Users\Jonathan\Desktop\FontSistemas\FSM\bin\Release\FSM.pdb
+C:\Users\Jonathan\Desktop\FontSistemas\FSM\obj\Release\FSM.dll
+C:\Users\Jonathan\Desktop\FontSistemas\FSM\obj\Release\FSM.pdb
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\FSM\bin\Release\FSM.dll
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\FSM\bin\Release\FSM.pdb
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\FSM\obj\Release\FSM.dll
+C:\Users\Jonathan\Documents\Warehouse\MatUmCR\Clientes\Font Sistemas\TEMP_PROYECTO DDL\FontSistemas\FSM\obj\Release\FSM.pdb
+C:\Users\Jonathan\Desktop\DMS\FSM\bin\Release\FSM.dll
+C:\Users\Jonathan\Desktop\DMS\FSM\bin\Release\FSM.pdb
+C:\Users\Jonathan\Desktop\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\DMS\FSM\obj\Release\FSM.dll
+C:\Users\Jonathan\Desktop\DMS\FSM\obj\Release\FSM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\bin\Release\FSM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\bin\Release\FSM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\bin\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\bin\Release\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\obj\Release\FSM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\FSM\obj\Release\FSM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\FSM\bin\Release\FSM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\FSM\bin\Release\FSM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\FSM\bin\Release\System.Web.Data.Cloud.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\FSM\bin\Release\System.Web.Data.Cloud.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\FSM\obj\Release\FSM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersion\DMS\FSM\obj\Release\FSM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\FSM\bin\Release\FSM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\FSM\bin\Release\FSM.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\FSM\bin\Release\System.Web.Data.Cloud.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\FSM\bin\Release\System.Web.Data.Cloud.pdb
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.dll
+C:\Users\DesignSoft_Dev\Desktop\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\bin\Release\FSM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\bin\Release\FSM.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\bin\Release\CapaLog.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\bin\Release\System.Web.Data.Cloud.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\bin\Release\CapaLog.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\bin\Release\System.Web.Data.Cloud.pdb
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.dll
+D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.pdb

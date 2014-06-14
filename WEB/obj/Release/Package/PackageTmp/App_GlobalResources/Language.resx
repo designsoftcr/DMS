@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BUTTON_ACCEPT" xml:space="preserve">
+    <value>Accept</value>
+  </data>
+  <data name="BUTTON_ADD" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="BUTTON_BACK" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="BUTTON_CANCEL" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="BUTTON_CHANGE" xml:space="preserve">
+    <value>Change</value>
+  </data>
+  <data name="BUTTON_CHANGE_PASSWORD" xml:space="preserve">
+    <value>Change password</value>
+  </data>
+  <data name="BUTTON_CLEAR" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="BUTTON_CLOSE" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="BUTTON_CONTINUE" xml:space="preserve">
+    <value>Continue</value>
+  </data>
+  <data name="BUTTON_LOAD" xml:space="preserve">
+    <value>Load</value>
+  </data>
+  <data name="BUTTON_LOGIN" xml:space="preserve">
+    <value>Log in</value>
+  </data>
+  <data name="BUTTON_NO" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="BUTTON_REGISTER_NEW_USER" xml:space="preserve">
+    <value>Register new user</value>
+  </data>
+  <data name="BUTTON_SAVE" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="ERROR_ADD_COMPANY" xml:space="preserve">
+    <value>Company name is required.</value>
+  </data>
+  <data name="ERROR_ADD_WORKGROUP" xml:space="preserve">
+    <value>Work group name is required.</value>
+  </data>
+  <data name="ERROR_CHANGE_PASSWPORD_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Confirm new password is required.</value>
+  </data>
+  <data name="ERROR_CHANGE_PASSWPORD_CURRENT_PASSWORD" xml:space="preserve">
+    <value>The current password field is required.</value>
+  </data>
+  <data name="ERROR_CHANGE_PASSWPORD_MATCH_PASSWORD" xml:space="preserve">
+    <value>The new password and confirmation password do not match.</value>
+  </data>
+  <data name="ERROR_CHANGE_PASSWPORD_NEW_PASSWORD" xml:space="preserve">
+    <value>The new password is required.</value>
+  </data>
+  <data name="ERROR_FIELD_GENERIC" xml:space="preserve">
+    <value>*</value>
+  </data>
+  <data name="ERROR_SPREADSHEET" xml:space="preserve">
+    <value>Please change the selected file to a spreadsheet.</value>
+  </data>
+  <data name="ERROR_SPREADSHEET_REQUIRED" xml:space="preserve">
+    <value>Please select a file.</value>
+  </data>
+  <data name="LABEL_403_MESSAGE_1" xml:space="preserve">
+    <value>Your account required additional permissions</value>
+  </data>
+  <data name="LABEL_403_MESSAGE_2" xml:space="preserve">
+    <value>If you have any concern please contact</value>
+  </data>
+  <data name="LABEL_403_TITLE" xml:space="preserve">
+    <value>Access Denied</value>
+  </data>
+  <data name="LABEL_500_MESSAGE_1" xml:space="preserve">
+    <value>Please try again</value>
+  </data>
+  <data name="LABEL_500_MESSAGE_2" xml:space="preserve">
+    <value>If the issue persist, notify to</value>
+  </data>
+  <data name="LABEL_500_TITLE" xml:space="preserve">
+    <value>Something Went Wrong</value>
+  </data>
+  <data name="LABEL_ACCOUNT" xml:space="preserve">
+    <value>Account</value>
+  </data>
+  <data name="LABEL_ACCOUNT_RECOMENDATION" xml:space="preserve">
+    <value>It's important to change your account password at least one time per mount, in order to keep your information secure.</value>
+  </data>
+  <data name="LABEL_ACCOUNT_SETTINGS" xml:space="preserve">
+    <value>Account Settings</value>
+  </data>
+  <data name="LABEL_ACCOUNT_SETTINGS_DESCRIPTION" xml:space="preserve">
+    <value>Set account parameters</value>
+  </data>
+  <data name="LABEL_ACTION" xml:space="preserve">
+    <value>Action</value>
+  </data>
+  <data name="LABEL_ADD" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="LABEL_ADD_NEW_COMPANY" xml:space="preserve">
+    <value>Add new company</value>
+  </data>
+  <data name="LABEL_ADD_NEW_DDL_PROFILE" xml:space="preserve">
+    <value>Add new profile</value>
+  </data>
+  <data name="LABEL_ADD_NEW_MODULE" xml:space="preserve">
+    <value>Add new module</value>
+  </data>
+  <data name="LABEL_ADD_NEW_RECORD" xml:space="preserve">
+    <value>Add new record</value>
+  </data>
+  <data name="LABEL_ADD_NEW_USER" xml:space="preserve">
+    <value>Add new user</value>
+  </data>
+  <data name="LABEL_ADD_NEW_WORKGROUP" xml:space="preserve">
+    <value>Add new work group</value>
+  </data>
+  <data name="LABEL_ADD_USER" xml:space="preserve">
+    <value>Add user</value>
+  </data>
+  <data name="LABEL_BACK_PREVIUS_PAGE" xml:space="preserve">
+    <value>← Back to previous page</value>
+  </data>
+  <data name="LABEL_CHANGE" xml:space="preserve">
+    <value>Change</value>
+  </data>
+  <data name="LABEL_CHANGES" xml:space="preserve">
+    <value>Changes</value>
+  </data>
+  <data name="LABEL_CHANGE_PASSWORD" xml:space="preserve">
+    <value>Change password</value>
+  </data>
+  <data name="LABEL_CHART_EXAMPLE" xml:space="preserve">
+    <value>Chart Example</value>
+  </data>
+  <data name="LABEL_CLEAR_HISTORY" xml:space="preserve">
+    <value>Clear History</value>
+  </data>
+  <data name="LABEL_COMANY_DETAILS" xml:space="preserve">
+    <value>List of Companies</value>
+  </data>
+  <data name="LABEL_COMPANIES" xml:space="preserve">
+    <value>Companies</value>
+  </data>
+  <data name="LABEL_COMPANIES_DESCRIPTION" xml:space="preserve">
+    <value>Maintenance of companies</value>
+  </data>
+  <data name="LABEL_COMPANIES_EDIT_DESCRIPTION" xml:space="preserve">
+    <value>Change specifications of the company</value>
+  </data>
+  <data name="LABEL_COMPANIES_REPORT" xml:space="preserve">
+    <value>Companies Report</value>
+  </data>
+  <data name="LABEL_COMPANIES_REPORT_DESCRIPTION" xml:space="preserve">
+    <value>List of registered companies on the system</value>
+  </data>
+  <data name="LABEL_COMPANY" xml:space="preserve">
+    <value>Company</value>
+  </data>
+  <data name="LABEL_COMPANY_DASHBOAR_DESCRIPTION" xml:space="preserve">
+    <value>The system support muliple companies, click to change the current company.</value>
+  </data>
+  <data name="LABEL_COMPANY_EDIT" xml:space="preserve">
+    <value>Company Edit</value>
+  </data>
+  <data name="LABEL_COMPANY_EDIT_DESCRIPTION" xml:space="preserve">
+    <value>Modify company details</value>
+  </data>
+  <data name="LABEL_COMPANY_MODAL_TITLE" xml:space="preserve">
+    <value>Change company</value>
+  </data>
+  <data name="LABEL_COMPANY_NAME" xml:space="preserve">
+    <value>Company name</value>
+  </data>
+  <data name="LABEL_CONFIGURATION" xml:space="preserve">
+    <value>Configuration</value>
+  </data>
+  <data name="LABEL_CONFIGURATION_DESCRIPTION" xml:space="preserve">
+    <value>System configuration</value>
+  </data>
+  <data name="LABEL_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Confirm new password</value>
+  </data>
+  <data name="LABEL_CURRENT_PASSWORD" xml:space="preserve">
+    <value>Current password</value>
+  </data>
+  <data name="LABEL_DASHBOARD" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="LABEL_DASHBOARD_DESCRIPTION" xml:space="preserve">
+    <value>Overview, stats, chat and more</value>
+  </data>
+  <data name="LABEL_DATABASES" xml:space="preserve">
+    <value>Data Bases</value>
+  </data>
+  <data name="LABEL_DATABASES_DESCRIPTION" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LABEL_DATABASE_DEFAULT" xml:space="preserve">
+    <value>Default database</value>
+  </data>
+  <data name="LABEL_DATABASE_DESCRIPTION" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="LABEL_DATABASE_DETAILS" xml:space="preserve">
+    <value>Database Details</value>
+  </data>
+  <data name="LABEL_DATABASE_NAME" xml:space="preserve">
+    <value>Database</value>
+  </data>
+  <data name="LABEL_DATABASE_PASSWORD" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="LABEL_DATABASE_SERVER" xml:space="preserve">
+    <value>Server</value>
+  </data>
+  <data name="LABEL_DATABASE_USER" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="LABEL_DATALOAD" xml:space="preserve">
+    <value>Data Load</value>
+  </data>
+  <data name="LABEL_DATALOAD_DESCRIPTION" xml:space="preserve">
+    <value>Dynamic data load</value>
+  </data>
+  <data name="LABEL_DATALOAD_HISTORY" xml:space="preserve">
+    <value>History</value>
+  </data>
+  <data name="LABEL_DATALOAD_HISTORY_DESCRIPTION" xml:space="preserve">
+    <value>Historical of previous data loads</value>
+  </data>
+  <data name="LABEL_DATALOAD_LONG_DESCRIPTION" xml:space="preserve">
+    <value>This module is intended for load data dynamically, using as source  spreadsheets files.</value>
+  </data>
+  <data name="LABEL_DATALOAD_PROFILES" xml:space="preserve">
+    <value>Profiles</value>
+  </data>
+  <data name="LABEL_DATALOAD_PROFILES_DESCRIPTION" xml:space="preserve">
+    <value>List of profiles for dynamic data load</value>
+  </data>
+  <data name="LABEL_DATALOAD_PROFILE_DETAILS" xml:space="preserve">
+    <value>List of load profiles</value>
+  </data>
+  <data name="LABEL_DATALOAD_PROFILE_EDIT_DESCRIPTION" xml:space="preserve">
+    <value>Change specifications of the data load profile</value>
+  </data>
+  <data name="LABEL_DATALOAD_SUMMARY" xml:space="preserve">
+    <value>Summary</value>
+  </data>
+  <data name="LABEL_DATALOAD_SUMMARY_DESCRIPTION" xml:space="preserve">
+    <value>Summarize the results of the data load process</value>
+  </data>
+  <data name="LABEL_DATE_GRID" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="LABEL_DELETE" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="LABEL_DELETED_RECORDS" xml:space="preserve">
+    <value>Deleted records: </value>
+  </data>
+  <data name="LABEL_DELETES_GRID" xml:space="preserve">
+    <value>Deleted</value>
+  </data>
+  <data name="LABEL_DELETE_CURRENT_DATA" xml:space="preserve">
+    <value>Delete current data</value>
+  </data>
+  <data name="LABEL_DESCRIPTION" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="LABEL_DETAIL" xml:space="preserve">
+    <value>Detail</value>
+  </data>
+  <data name="LABEL_DURATION" xml:space="preserve">
+    <value>Duration</value>
+  </data>
+  <data name="LABEL_EDIT" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="LABEL_EDIT_COMPANIES" xml:space="preserve">
+    <value>Companies Edit</value>
+  </data>
+  <data name="LABEL_EDIT_FROFILE" xml:space="preserve">
+    <value>Profile Edit</value>
+  </data>
+  <data name="LABEL_ENGLISH" xml:space="preserve">
+    <value>English [ENG]</value>
+  </data>
+  <data name="LABEL_ERRORS" xml:space="preserve">
+    <value>Errors: </value>
+  </data>
+  <data name="LABEL_ERRORS_GRID" xml:space="preserve">
+    <value>Errors</value>
+  </data>
+  <data name="LABEL_EXTERNAL_ID" xml:space="preserve">
+    <value>External ID</value>
+  </data>
+  <data name="LABEL_FILE" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="LABEL_FILENAME_GRID" xml:space="preserve">
+    <value>File Name</value>
+  </data>
+  <data name="LABEL_FILE_DESCRIPTION" xml:space="preserve">
+    <value>File Description</value>
+  </data>
+  <data name="LABEL_FIXED_NAVBAR" xml:space="preserve">
+    <value>Fixed Navbar</value>
+  </data>
+  <data name="LABEL_FIXED_SIDEBAR" xml:space="preserve">
+    <value>Fixed Sidebar</value>
+  </data>
+  <data name="LABEL_GO" xml:space="preserve">
+    <value>GO</value>
+  </data>
+  <data name="LABEL_GO_TO_DASHOARD" xml:space="preserve">
+    <value>Go to dashboard</value>
+  </data>
+  <data name="LABEL_HISTORY" xml:space="preserve">
+    <value>History</value>
+  </data>
+  <data name="LABEL_HISTORY_CLEAR_MESSAGE" xml:space="preserve">
+    <value>Warning: This action can not be reversed. Are you sure you want to delete the history?</value>
+  </data>
+  <data name="LABEL_INFO_NEW_USER" xml:space="preserve">
+    <value>Passwords are required to be a minimum of 6 characters in length.</value>
+  </data>
+  <data name="LABEL_INSERTS_GRID" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="LABEL_LIST_MODULES" xml:space="preserve">
+    <value>Modules list</value>
+  </data>
+  <data name="LABEL_LOADED_FILE" xml:space="preserve">
+    <value>Loaded file:</value>
+  </data>
+  <data name="LABEL_LOADS" xml:space="preserve">
+    <value>Loads</value>
+  </data>
+  <data name="LABEL_LOGOUT" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="LABEL_MODULE" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="LABEL_MODULES" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="LABEL_MODULES_DESCRIPTION" xml:space="preserve">
+    <value>System modules</value>
+  </data>
+  <data name="LABEL_MODULE_DESCRIPTION" xml:space="preserve">
+    <value>System modules</value>
+  </data>
+  <data name="LABEL_MODULE_DETAILS" xml:space="preserve">
+    <value>List of Modules</value>
+  </data>
+  <data name="LABEL_MODULE_EDIT" xml:space="preserve">
+    <value>Module Edit</value>
+  </data>
+  <data name="LABEL_MODULE_NAME" xml:space="preserve">
+    <value>Module Name</value>
+  </data>
+  <data name="LABEL_NAME" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="LABEL_NEW_PASSWORD" xml:space="preserve">
+    <value>New password</value>
+  </data>
+  <data name="LABEL_NEW_RECORDS" xml:space="preserve">
+    <value>New records: </value>
+  </data>
+  <data name="LABEL_NOTE" xml:space="preserve">
+    <value>NOTE!</value>
+  </data>
+  <data name="LABEL_NOTE_MESSAGE" xml:space="preserve">
+    <value>The process requires a spreadsheet only.</value>
+  </data>
+  <data name="LABEL_OPTIONS_LIST" xml:space="preserve">
+    <value>Options list</value>
+  </data>
+  <data name="LABEL_PASSWORD" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="LABEL_PASSWORD_RESET" xml:space="preserve">
+    <value>Password reset</value>
+  </data>
+  <data name="LABEL_PEOPLE" xml:space="preserve">
+    <value>People</value>
+  </data>
+  <data name="LABEL_PEOPLE_DESCRIPTION" xml:space="preserve">
+    <value>People from Costa Rica's sensus, module with demonstrative purposes</value>
+  </data>
+  <data name="LABEL_PEOPLE_DETAILS" xml:space="preserve">
+    <value>People List</value>
+  </data>
+  <data name="LABEL_PERMISSIONS" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="LABEL_PERMISSIONS_DESCRIPTION" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LABEL_PERSON_ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="LABEL_PERSON_LASTNAME" xml:space="preserve">
+    <value>Last Name</value>
+  </data>
+  <data name="LABEL_PERSON_NAME" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="LABEL_PROCEDURE" xml:space="preserve">
+    <value>Procedure</value>
+  </data>
+  <data name="LABEL_PROFILE" xml:space="preserve">
+    <value>Profile</value>
+  </data>
+  <data name="LABEL_PROFILES" xml:space="preserve">
+    <value>Profiles</value>
+  </data>
+  <data name="LABEL_PROFILE_DESCRIPTION" xml:space="preserve">
+    <value>Profile Description</value>
+  </data>
+  <data name="LABEL_PROFILE_NAME" xml:space="preserve">
+    <value>Profile Name</value>
+  </data>
+  <data name="LABEL_PROFILE_STOREPROCEDURE" xml:space="preserve">
+    <value>Stored Procedure</value>
+  </data>
+  <data name="LABEL_REFRESH" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="LABEL_REMEMBER" xml:space="preserve">
+    <value>Remember me?</value>
+  </data>
+  <data name="LABEL_REMOVE" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="LABEL_REPORT" xml:space="preserve">
+    <value>Report</value>
+  </data>
+  <data name="LABEL_ROLES" xml:space="preserve">
+    <value>Roles</value>
+  </data>
+  <data name="LABEL_SEARCH" xml:space="preserve">
+    <value>Search . . .</value>
+  </data>
+  <data name="LABEL_SELECT_FILE" xml:space="preserve">
+    <value>Select file</value>
+  </data>
+  <data name="LABEL_SETTINGS" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="LABEL_SHEET_NAME" xml:space="preserve">
+    <value>Sheet name</value>
+  </data>
+  <data name="LABEL_SPANISH" xml:space="preserve">
+    <value>Spanish [ESP]</value>
+  </data>
+  <data name="LABEL_SPREADSHEET" xml:space="preserve">
+    <value>Spreadsheet</value>
+  </data>
+  <data name="LABEL_SP_EXAMPLE" xml:space="preserve">
+    <value>Stored Procedure Example</value>
+  </data>
+  <data name="LABEL_STOREPROCEDURE_EXAMPLE" xml:space="preserve">
+    <value>SP Example</value>
+  </data>
+  <data name="LABEL_UPDATED_RECORDS" xml:space="preserve">
+    <value>Updated records: </value>
+  </data>
+  <data name="LABEL_UPDATES_GRID" xml:space="preserve">
+    <value>Updated</value>
+  </data>
+  <data name="LABEL_USER" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="LABEL_USERS" xml:space="preserve">
+    <value>Users</value>
+  </data>
+  <data name="LABEL_USERS_DESCRIPTION" xml:space="preserve">
+    <value>Maintenance of users</value>
+  </data>
+  <data name="LABEL_USER_ADD_DESCRIPTION" xml:space="preserve">
+    <value>Add new user</value>
+  </data>
+  <data name="LABEL_USER_DESCRIPTION" xml:space="preserve">
+    <value>Maintenance of users</value>
+  </data>
+  <data name="LABEL_USER_DETAILS" xml:space="preserve">
+    <value>List of Users</value>
+  </data>
+  <data name="LABEL_USER_EDIT" xml:space="preserve">
+    <value>User Edit</value>
+  </data>
+  <data name="LABEL_USER_EDIT_DESCRIPTION" xml:space="preserve">
+    <value>Modify user details</value>
+  </data>
+  <data name="LABEL_USER_INFORMATION" xml:space="preserve">
+    <value>User Information</value>
+  </data>
+  <data name="LABEL_VIEW" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="LABEL_WIZARD" xml:space="preserve">
+    <value>Wizard</value>
+  </data>
+  <data name="LABEL_WORKGROUPS" xml:space="preserve">
+    <value>Work Groups</value>
+  </data>
+  <data name="LABEL_WORKGROUPS_DESCRIPTION" xml:space="preserve">
+    <value>Maintenance of work groups</value>
+  </data>
+  <data name="LABEL_WORKGROUP_DETAILS" xml:space="preserve">
+    <value>List of work groups</value>
+  </data>
+  <data name="LABEL_WORKGROUP_EDIT" xml:space="preserve">
+    <value>Work Group Edit</value>
+  </data>
+  <data name="LABEL_WORKGROUP_EDIT_DESCRIPTION" xml:space="preserve">
+    <value>Modify work group details</value>
+  </data>
+  <data name="LABEL_WORKGROUP_NAME" xml:space="preserve">
+    <value>Work Group Name</value>
+  </data>
+</root>
