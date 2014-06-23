@@ -8,3 +8,9 @@ D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\b
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Debug\WCF.dll
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WCF\obj\Debug\WCF.pdb
+C:\Users\Jonathan\Source\Repos\DMS\WCF\bin\WCF.dll.config
+C:\Users\Jonathan\Source\Repos\DMS\WCF\bin\WCF.dll
+C:\Users\Jonathan\Source\Repos\DMS\WCF\bin\WCF.pdb
+C:\Users\Jonathan\Source\Repos\DMS\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Source\Repos\DMS\WCF\obj\Debug\WCF.dll
+C:\Users\Jonathan\Source\Repos\DMS\WCF\obj\Debug\WCF.pdb

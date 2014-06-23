@@ -47,7 +47,7 @@ namespace FSM.DAC.DDL
                 query = new OleDbCommand(String.Concat("SELECT * FROM [", sheet.ElementAt(0), "]"), excelConnection);
                 query.CommandTimeout = 0;
                 query.CommandType = CommandType.Text;
-                streamWriter = new StreamWriter(String.Concat(path,x.FileId));
+                streamWriter = new StreamWriter(String.Concat(path,x.FileId), false, Encoding.Unicode);
                 adapter = new OleDbDataAdapter(query);
                 DataTable data = new DataTable();
                 adapter.Fill(data);

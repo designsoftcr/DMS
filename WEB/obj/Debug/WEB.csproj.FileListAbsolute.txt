@@ -66,3 +66,42 @@ D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\o
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\obj\Debug\WEB.pdb
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Web.Data.Cloud.dll
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Web.Data.Cloud.pdb
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\WEB.dll.config
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\WEB.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\WEB.pdb
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\CapaLog.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.Core.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\EntityFramework.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\FSM.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\MTM.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\System.Web.Providers.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\System.Web.Data.Cloud.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\System.Net.Http.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\CapaLog.pdb
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\FSM.pdb
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\MTM.pdb
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\EntityFramework.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.Core.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\System.Web.Data.Cloud.pdb
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\System.Net.Http.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\es\System.Net.Http.resources.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Source\Repos\DMS\WEB\obj\Debug\WEB.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\obj\Debug\WEB.pdb

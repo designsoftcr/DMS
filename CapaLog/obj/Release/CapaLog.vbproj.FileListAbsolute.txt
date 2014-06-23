@@ -67,3 +67,9 @@ D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_External
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\CapaLog\obj\Release\CapaLog.vbproj.GenerateResource.Cache
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\CapaLog\obj\Release\CapaLog.dll
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\CapaLog\obj\Release\CapaLog.pdb
+C:\Users\Jonathan\Source\Repos\DMS\CapaLog\bin\Release\CapaLog.dll
+C:\Users\Jonathan\Source\Repos\DMS\CapaLog\bin\Release\CapaLog.pdb
+C:\Users\Jonathan\Source\Repos\DMS\CapaLog\obj\Release\CapaLog.Resources.resources
+C:\Users\Jonathan\Source\Repos\DMS\CapaLog\obj\Release\CapaLog.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Source\Repos\DMS\CapaLog\obj\Release\CapaLog.dll
+C:\Users\Jonathan\Source\Repos\DMS\CapaLog\obj\Release\CapaLog.pdb

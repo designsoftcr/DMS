@@ -738,7 +738,9 @@ namespace Resources {
         /// <summary>
         ///   Looks up a localized string similar to Data Load.
         /// </summary>
-        internal static string LABEL_DATALOAD {
+        internal static string LABEL_
+        
+        {
             get {
                 return ResourceManager.GetString("LABEL_DATALOAD", resourceCulture);
             }

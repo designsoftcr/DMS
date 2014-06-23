@@ -52,7 +52,7 @@
                 <div class="span6">
                     <div class="row-fluid tiles-group">
                         <div class="span12 tile-active">
-                            <a class="tile tile-fs-c" href="../../Acount/Settings" data-stop="19000">
+                            <a class="tile tile-fs-c" href="../Acount/Settings" data-stop="19000">
                                 <p class="title">
                                     <asp:Literal ID="LTAccountSettings" runat="server" Text="<%$ Resources:Language, LABEL_ACCOUNT_SETTINGS %>"></asp:Literal>
                                 </p>
@@ -61,7 +61,7 @@
                                 </p>
                                 <div class="img img-bottom"><i class="icon-user"></i></div>
                             </a>
-                            <a class="tile tile-fs-c" href="../../Account/Settings" data-stop="19000">
+                            <a class="tile tile-fs-c" href="../Account/Settings" data-stop="19000">
                                 <p class="title">
                                     <asp:Literal ID="Literal2" runat="server" Text="<%$ Resources:Language, LABEL_ACCOUNT_SETTINGS %>"></asp:Literal>
                                 </p>

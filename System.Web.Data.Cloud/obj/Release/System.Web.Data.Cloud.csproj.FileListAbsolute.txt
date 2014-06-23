@@ -25,3 +25,10 @@ D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_External
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.csprojResolveAssemblyReference.cache
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.dll
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.pdb
+C:\Users\Jonathan\Source\Repos\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.dll
+C:\Users\Jonathan\Source\Repos\DMS\System.Web.Data.Cloud\bin\Release\System.Web.Data.Cloud.pdb
+C:\Users\Jonathan\Source\Repos\DMS\System.Web.Data.Cloud\bin\Release\CapaLog.dll
+C:\Users\Jonathan\Source\Repos\DMS\System.Web.Data.Cloud\bin\Release\CapaLog.pdb
+C:\Users\Jonathan\Source\Repos\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Source\Repos\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.dll
+C:\Users\Jonathan\Source\Repos\DMS\System.Web.Data.Cloud\obj\Release\System.Web.Data.Cloud.pdb
