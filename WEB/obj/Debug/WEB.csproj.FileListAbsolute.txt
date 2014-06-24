@@ -66,7 +66,7 @@ D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\o
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\obj\Debug\WEB.pdb
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Web.Data.Cloud.dll
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\LAST\DMS\WEB\bin\System.Web.Data.Cloud.pdb
-C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.xml
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\WEB.dll.config
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\WEB.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\WEB.pdb
@@ -76,6 +76,7 @@ C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\CapaLog.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.AspNet.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.Core.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\EntityFramework.dll
@@ -94,7 +95,6 @@ C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\EntityFramework.xml
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.Core.xml
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.xml
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.xml
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.xml

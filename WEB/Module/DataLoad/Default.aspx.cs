@@ -141,6 +141,7 @@ namespace WEB.Module.DataLoad
                                                             Guid.Parse((string)Session["CompanyId"]),
                                                             Guid.Parse((string)Session["UserId"]), fileBE,
                                                             WEB.Properties.Settings.Default.DDL_UPLOADS_PATH, iExcelCoulumnCount);
+
                             if (LError.Text != String.Empty)
                             {
                                 ErrorDiv.Visible = true;
