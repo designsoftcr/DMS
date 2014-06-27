@@ -117,12 +117,13 @@ namespace FSM.DAC.DDL
             return file;
         }
 
-        public void updateDDL_Files(FilesBE x)
+        //public void updateDDL_Files(FilesBE x)
+        public void updateDDL_Files(FilesBE x, String userId)
         {
             try
             {
                 ExecuteScript objE = new ExecuteScript();
-                objE.executeQuertyAndReturnNothing("sp_UpdateDDL_Files", new object[] { x.FileId, x.ProfileId, x.FileName, x.FileLink, x.Description });
+                objE.executeQuertyAndReturnNothing("sp_UpdateDDL_Files", new object[] { x.FileId, x.ProfileId, x.FileName, x.FileLink, x.Description, userId });
             }
             catch (Exception ex)
             {

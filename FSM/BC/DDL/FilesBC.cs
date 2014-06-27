@@ -22,10 +22,12 @@ namespace FSM.BC.DDL
             return filesDAC.NewFile();
         }
 
-        public void Update(FilesBE x)
+        //public void Update(FilesBE x)
+        public void Update(FilesBE x, String userId)
         {
             //filesDAC.Update(x);
-            filesDAC.updateDDL_Files(x);
+            //filesDAC.updateDDL_Files(x);
+            filesDAC.updateDDL_Files(x, userId);
         }
 
         public string ImportData(bool deleteData, Guid companyId, Guid userId, FilesBE x, string path, int iExcelCoulumnCount)

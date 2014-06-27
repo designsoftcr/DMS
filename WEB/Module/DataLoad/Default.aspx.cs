@@ -116,7 +116,9 @@ namespace WEB.Module.DataLoad
 
                         postedFile.SaveAs(String.Concat(WEB.Properties.Settings.Default.DDL_UPLOADS_PATH, fileBE.FileId, ext));
 
-                        filesBC.Update(fileBE);
+                        //filesBC.Update(fileBE);
+                        filesBC.Update(fileBE, (string)Session["UserId"]);
+
                         int iExcelCoulumnCount = 0;
                         LError.Text = filesBC.ConvertExcel(fileBE, WEB.Properties.Settings.Default.DDL_UPLOADS_PATH, ref iExcelCoulumnCount);
 

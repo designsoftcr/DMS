@@ -119,36 +119,36 @@ namespace WEB.Module.DataLoad
                     DTProfileDescription.Visible = true;
                 }
 
-                if (logBE.FileDescription != String.Empty)
-                {
+                //if (logBE.FileDescription != String.Empty)
+                //{
                     LTFileDescription.Text = logBE.FileDescription;
                     DTFileDescription.Visible = true;
                     DDFileDescription.Visible = true;
-                }
+                //}
 
-                if (logBE.Inserts > 0)
-                {
+                //if (logBE.Inserts > 0)
+                //{
                     LInsertsR.Text = logBE.Inserts.ToString();
                     LIInserts.Visible = true;
                     DTChanges.Visible = true;
                     DDChanges.Visible = true;
-                }
+               // }
 
-                if (logBE.Updates > 0)
-                {
+                //if (logBE.Updates > 0)
+               // {
                     LUpdatesR.Text = logBE.Updates.ToString();
                     LIUpdates.Visible = true;
                     DTChanges.Visible = true;
                     DDChanges.Visible = true;
-                }
+               // }
 
-                if (logBE.Deletes > 0)
-                {
+                // if (logBE.Deletes > 0)
+               // {
                     LDeletesR.Text = logBE.Deletes.ToString();
                     LIDeletes.Visible = true;
                     DTChanges.Visible = true;
                     DDChanges.Visible = true;
-                }
+                // }
 
                 if (logBE.Errors > 0 || logBE.ErrorDescription != null)
                 {

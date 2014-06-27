@@ -161,7 +161,7 @@ namespace FSM.DAC.DDL
                             log.ProfileDescription = reader.GetString(5);
                             log.FileName = reader.GetString(6);
                             log.FileLink = reader.GetString(7);
-                            log.FileDescription = reader.GetString(8);
+                            log.FileDescription = reader[8].ToString();//reader.GetString(8);
                             log.Date = reader.GetDateTime(9);
                             log.Inserts = reader.GetInt32(10);
                             log.Updates = reader.GetInt32(11);
