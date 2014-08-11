@@ -54,3 +54,13 @@ C:\Users\Jonathan\Source\Repos\DMS\MTM\bin\Release\System.Web.Data.Cloud.pdb
 C:\Users\Jonathan\Source\Repos\DMS\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
 C:\Users\Jonathan\Source\Repos\DMS\MTM\obj\Release\MTM.dll
 C:\Users\Jonathan\Source\Repos\DMS\MTM\obj\Release\MTM.pdb
+D:\FP\DS\Git\DMS\MTM\bin\Release\MTM.dll.config
+D:\FP\DS\Git\DMS\MTM\bin\Release\MTM.dll
+D:\FP\DS\Git\DMS\MTM\bin\Release\MTM.pdb
+D:\FP\DS\Git\DMS\MTM\bin\Release\CapaLog.dll
+D:\FP\DS\Git\DMS\MTM\bin\Release\System.Web.Data.Cloud.dll
+D:\FP\DS\Git\DMS\MTM\bin\Release\CapaLog.pdb
+D:\FP\DS\Git\DMS\MTM\bin\Release\System.Web.Data.Cloud.pdb
+D:\FP\DS\Git\DMS\MTM\obj\Release\MTM.csprojResolveAssemblyReference.cache
+D:\FP\DS\Git\DMS\MTM\obj\Release\MTM.dll
+D:\FP\DS\Git\DMS\MTM\obj\Release\MTM.pdb
