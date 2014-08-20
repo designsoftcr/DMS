@@ -35,16 +35,16 @@ namespace WEB.Account
         {
             try
             {
-                e.Authenticated = Membership.ValidateUser(Login1.UserName, Login1.Password);
+                /*e.Authenticated = Membership.ValidateUser(Login1.UserName, Login1.Password);
                 if (e.Authenticated == false)
-                {
+                {*/
                     MembershipUser usrInfo = Membership.GetUser(Login1.UserName); // getting user information
                     if (usrInfo == null) return;
                     if (IsAuthenticateByActiveDirectory(Login1.UserName, Login1.Password)) // when the AD information return true, the code must go on
                     {
                         e.Authenticated = true;
                     }
-                }
+                //}
             }
             catch (Exception ex)
             {

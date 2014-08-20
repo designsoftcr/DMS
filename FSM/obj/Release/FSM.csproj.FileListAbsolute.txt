@@ -41,15 +41,6 @@ D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_External
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.dll
 D:\Projects\PocketAssets\Proyecto 1 - Sistema para carga de datos\Issue_ExternalId\UltimaVersionAlejandro\DMS\FSM\obj\Release\FSM.pdb
-C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\FSM.dll
-C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\FSM.pdb
-C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\CapaLog.dll
-C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\System.Web.Data.Cloud.dll
-C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\CapaLog.pdb
-C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\System.Web.Data.Cloud.pdb
-C:\Users\Jonathan\Source\Repos\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
-C:\Users\Jonathan\Source\Repos\DMS\FSM\obj\Release\FSM.dll
-C:\Users\Jonathan\Source\Repos\DMS\FSM\obj\Release\FSM.pdb
 D:\FP\DS\Git\DMS\FSM\bin\Release\FSM.dll
 D:\FP\DS\Git\DMS\FSM\bin\Release\FSM.pdb
 D:\FP\DS\Git\DMS\FSM\bin\Release\CapaLog.dll
@@ -59,3 +50,12 @@ D:\FP\DS\Git\DMS\FSM\bin\Release\System.Web.Data.Cloud.pdb
 D:\FP\DS\Git\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
 D:\FP\DS\Git\DMS\FSM\obj\Release\FSM.dll
 D:\FP\DS\Git\DMS\FSM\obj\Release\FSM.pdb
+C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\FSM.dll
+C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\FSM.pdb
+C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\CapaLog.dll
+C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\System.Web.Data.Cloud.dll
+C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\CapaLog.pdb
+C:\Users\Jonathan\Source\Repos\DMS\FSM\bin\Release\System.Web.Data.Cloud.pdb
+C:\Users\Jonathan\Source\Repos\DMS\FSM\obj\Release\FSM.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Source\Repos\DMS\FSM\obj\Release\FSM.dll
+C:\Users\Jonathan\Source\Repos\DMS\FSM\obj\Release\FSM.pdb
