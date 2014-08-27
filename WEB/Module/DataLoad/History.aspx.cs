@@ -15,7 +15,8 @@ namespace WEB.Module.DataLoad
         private string ModuleId = "30F24934-02CB-4C14-8672-B9D45C276A25";
         private ModulesBC moduleBC = new ModulesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString);
 
-        private LogBC logBC = new LogBC((new DataBasesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString)).ConnectionString());
+        //private LogBC logBC = new LogBC((new DataBasesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString)).ConnectionString());
+        private LogBC logBC = new LogBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ToString());
 
         protected void Page_Load(object sender, EventArgs e)
         {

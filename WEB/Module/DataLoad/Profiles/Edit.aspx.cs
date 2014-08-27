@@ -13,7 +13,8 @@ namespace WEB.Module.DataLoad.Profiles
 {
     public partial class Edit : System.Web.UI.Page
     {
-        private ProfilesBC profilesBC = new ProfilesBC((new DataBasesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString)).ConnectionString());
+        //private ProfilesBC profilesBC = new ProfilesBC((new DataBasesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString)).ConnectionString());
+        private ProfilesBC profilesBC = new ProfilesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ToString());
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -73,7 +74,8 @@ namespace WEB.Module.DataLoad.Profiles
                 profilesBC.Update(profileId, 
                     TBProfileName.Text.ToString().Trim(), 
                     DDLStoreProcedures.SelectedValue.ToString().Trim(),
-                    TBProfileDescription.Text.ToString().Trim());
+                    TBProfileDescription.Text.ToString().Trim(),
+                    TBPlantilla.Text.ToString().Trim());
 
                 Response.Redirect("~/Module/DataLoad/Profiles/");
             }
@@ -91,6 +93,7 @@ namespace WEB.Module.DataLoad.Profiles
             ProfilesBE profile = profilesBC.SelectProfileById(id);
             TBProfileName.Text = profile.Name;
             TBProfileDescription.Text = profile.Description;
+            TBPlantilla.Text = profile.Plantilla;
         }
     }
 }

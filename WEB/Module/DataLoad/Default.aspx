@@ -2,6 +2,8 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="PageSpecificCSSStyles" runat="server">
     <link rel="stylesheet" href="../../Content/assets/bootstrap-fileupload/bootstrap-fileupload.css">
+    <script type='text/javascript' src='../../Scripts/jquery-1.8.2.js'></script>
+    <script type='text/javascript' src='../../Content/js/Validaciones.js'></script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="PageTitle" runat="server">
     <h1><i class="icon-file-alt"></i><%: Title %></h1>
@@ -83,7 +85,7 @@
                                                                     <asp:Label ID="LSelectFile" runat="server" Text="<%$ Resources:Language, LABEL_SELECT_FILE %>"></asp:Label></span>
                                                                 <span class="fileupload-exists">
                                                                     <asp:Label ID="LChange" runat="server" Text="<%$ Resources:Language, LABEL_CHANGE %>"></asp:Label></span>
-                                                                <input type="file" class="default" name='myFile' id='myFile' runat="server" />
+                                                                <input type="file" class="default" name='myFile' id='myFile' runat="server" onchange="validar();"/>
                                                             </span>
                                                             <a href="#" class="btn fileupload-exists" data-dismiss="fileupload">
                                                                 <asp:Label ID="LRemove" runat="server" Text="<%$ Resources:Language, LABEL_REMOVE %>"></asp:Label></a>

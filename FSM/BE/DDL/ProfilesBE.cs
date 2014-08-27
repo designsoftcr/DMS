@@ -12,6 +12,7 @@ namespace FSM.BE.DDL
         public string Name { get; set; }
         public string StoreProcedure { get; set; }
         public string Description { get; set; }
+        public string Plantilla { get; set; }
 
         public ProfilesBE() { }
 
@@ -22,12 +23,13 @@ namespace FSM.BE.DDL
             this.Description = description;
         }
 
-        public ProfilesBE(Guid id, string name, string storeProcedure, string description)
+        public ProfilesBE(Guid id, string name, string storeProcedure, string description, string plantilla)
         {
             this.ProfileId = id;
             this.Name = name;
             this.StoreProcedure = storeProcedure;
             this.Description = description;
+            this.Plantilla = plantilla;
         }
 
     }

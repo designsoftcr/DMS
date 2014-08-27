@@ -37,15 +37,16 @@
     <form id="Form1" runat="server">
         <!-- BEGIN Main Content -->
         <div class="error-wrapper">
-            <h5><asp:Literal ID="Literal1" runat="server" Text="<%$ Resources:Language, LABEL_403_TITLE %>"></asp:Literal><span>403</span></h5>
+            <h5><asp:Literal ID="Literal1" runat="server" Text="<%$ Resources:Language, LABEL_403_TITLE %>"></asp:Literal><!--<span>403</span>--></h5>
             <p>
-                <asp:Literal ID="Literal2" runat="server" Text="<%$ Resources:Language, LABEL_403_MESSAGE_1 %>"></asp:Literal><br />
-                <asp:Literal ID="Literal3" runat="server" Text="<%$ Resources:Language, LABEL_403_MESSAGE_2 %>"></asp:Literal> <%: System.Web.Configuration.WebConfigurationManager.AppSettings["CompanyName"] %>
+                <asp:Literal ID="Literal2" runat="server" Text="<%$ Resources:Language, LABEL_403_MESSAGE_1 %>"></asp:Literal> <br />
+                <!--<asp:Literal ID="Literal3" runat="server" Text="<%$ Resources:Language, LABEL_403_MESSAGE_2 %>"></asp:Literal> <%: System.Web.Configuration.WebConfigurationManager.AppSettings["CompanyName"] %>-->
             </p>
             <hr />
             <p class="clearfix">
-                <a href="javascript:history.back()" class="pull-left"><asp:Literal ID="Literal4" runat="server" Text="<%$ Resources:Language, LABEL_BACK_PREVIUS_PAGE %>"></asp:Literal></a>
-                <a href="../../DMS/" class="pull-right"><asp:Literal ID="Literal5" runat="server" Text="<%$ Resources:Language, LABEL_GO_TO_DASHOARD %>"></asp:Literal></a>
+                <!--<a href="javascript:history.back()" class="pull-left"><asp:Literal ID="Literal4" runat="server" Text="<%$ Resources:Language, LABEL_BACK_PREVIUS_PAGE %>"></asp:Literal></a>-->
+                <!--<a href="../../DMS/" class="pull-right"><asp:Literal ID="Literal5" runat="server" Text="<%$ Resources:Language, LABEL_GO_TO_DASHOARD %>"></asp:Literal></a>-->
+                <a href="Account/Login/" class="pull-left">Ir a inicio</a>
             </p>
         </div>
         <!-- END Main Content -->

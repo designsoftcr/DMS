@@ -246,6 +246,7 @@ C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\Microsoft.AspNet.Membership.OpenAuth.
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\System.Web.Data.Cloud.pdb
 C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\System.Net.Http.xml
+C:\Users\Jonathan\Source\Repos\DMS\WEB\bin\es\System.Net.Http.resources.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\obj\Release\WEB.csprojResolveAssemblyReference.cache
 C:\Users\Jonathan\Source\Repos\DMS\WEB\obj\Release\WEB.dll
 C:\Users\Jonathan\Source\Repos\DMS\WEB\obj\Release\WEB.pdb

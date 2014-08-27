@@ -64,12 +64,13 @@ namespace FSM.DAC.DDL
                 connection.Open();
                 transaction = connection.BeginTransaction();
 
-                using (SqlCommand query = new SqlCommand("UPDATE DDL_Profiles SET Name=@Name, StoreProcedure=@StoreProcedure, Description=@Description WHERE ProfileId=@ProfileId", connection))
+                using (SqlCommand query = new SqlCommand("UPDATE DDL_Profiles SET Name=@Name, StoreProcedure=@StoreProcedure, Description=@Description, NOMBRE_PLANTILLA=@Plantilla WHERE ProfileId=@ProfileId", connection))
                 {
                     query.Parameters.AddWithValue("@Name", x.Name);
                     query.Parameters.AddWithValue("@StoreProcedure", x.StoreProcedure);
                     query.Parameters.AddWithValue("@Description", x.Description);
                     query.Parameters.AddWithValue("@ProfileId", x.ProfileId);
+                    query.Parameters.AddWithValue("@Plantilla", x.Plantilla);
                     query.Transaction = transaction;
                     try
                     {
@@ -154,6 +155,7 @@ namespace FSM.DAC.DDL
                             profile.Name = reader.GetString(1);
                             profile.StoreProcedure = reader.GetString(2);
                             profile.Description = reader.GetString(3);
+                            profile.Plantilla = reader[4].ToString();
                         }
                     }
 
@@ -208,6 +210,7 @@ namespace FSM.DAC.DDL
             profile.Name = reader.GetString(1);
             profile.StoreProcedure = reader.GetString(2);
             profile.Description = reader.GetString(3);
+            profile.Plantilla = reader[4].ToString();
 
             return profile;
         }

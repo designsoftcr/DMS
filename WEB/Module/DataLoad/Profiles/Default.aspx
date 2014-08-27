@@ -72,6 +72,9 @@
                                         <th>
                                             <asp:Label ID="LDescription" runat="server" Text="<%$ Resources:Language, LABEL_DESCRIPTION %>"></asp:Label>
                                         </th>
+                                        <th>
+                                            <asp:Label ID="LPlantilla" runat="server" Text="Plantilla"></asp:Label>
+                                        </th>
                                         <th style="width: 70px">
                                             <asp:Label ID="LAction" runat="server" Text="<%$ Resources:Language, LABEL_ACTION %>"></asp:Label>
                                         </th>
@@ -94,6 +97,9 @@
                                     <asp:Literal ID="LTProfileDescription" runat="server" Text='<%# DataBinder.Eval(Container.DataItem,"Description") %>'></asp:Literal>
                                 </td>
                                 <td>
+                                    <a href='../../../Template/<%# DataBinder.Eval(Container.DataItem,"Plantilla") %>'><asp:Literal ID="LTPlantilla" runat="server" Text='<%# DataBinder.Eval(Container.DataItem,"Plantilla") %>'></asp:Literal></a>
+                                </td>
+                                <td>
                                     <div class="btn-group">
                                         <a id="A3" class="btn btn-small show-tooltip" runat="server" title="<%$ Resources:Language, LABEL_EDIT %>" href='<%# "Edit?Id=" + DataBinder.Eval(Container.DataItem,"ProfileId") %>'><i class="icon-edit"></i></a>
                                         <a id="A4" class="btn btn-small btn-danger show-tooltip" runat="server" title="<%$ Resources:Language, LABEL_DELETE %>" href='<%# "?Delete=" + DataBinder.Eval(Container.DataItem,"ProfileId") %>'><i class="icon-trash"></i></a>
@@ -114,6 +120,9 @@
                                 </td>
                                 <td>
                                     <asp:Literal ID="LTProfileDescription" runat="server" Text='<%# DataBinder.Eval(Container.DataItem,"Description") %>'></asp:Literal>
+                                </td>
+                                <td>
+                                    <a href='../../../Template/<%# DataBinder.Eval(Container.DataItem,"Plantilla") %>'><asp:Literal ID="LTPlantilla" runat="server" Text='<%# DataBinder.Eval(Container.DataItem,"Plantilla") %>'></asp:Literal></a>
                                 </td>
                                 <td>
                                     <div class="btn-group">

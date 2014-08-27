@@ -28,9 +28,9 @@ namespace FSM.BC.DDL
             profilesDAC.Insert(new ProfilesBE(name, storeProcedure, description));
         }
 
-        public void Update(string id, string name, string storeProcedure, string description)
+        public void Update(string id, string name, string storeProcedure, string description, string plantilla)
         {
-            profilesDAC.Update(new ProfilesBE(Guid.Parse(id), name, storeProcedure, description));
+            profilesDAC.Update(new ProfilesBE(Guid.Parse(id), name, storeProcedure, description, plantilla));
         }
 
         public DataTable SelectStoreProcedures()

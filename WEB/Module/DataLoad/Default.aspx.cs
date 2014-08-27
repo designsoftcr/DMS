@@ -23,8 +23,12 @@ namespace WEB.Module.DataLoad
         private string ModuleId = "30F24934-02CB-4C14-8672-B9D45C276A25";
         private ModulesBC moduleBC = new ModulesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString);
         
-        private ProfilesBC profilesBC = new ProfilesBC((new DataBasesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString)).ConnectionString());
-        private FilesBC filesBC = new FilesBC((new DataBasesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString)).ConnectionString());
+        /*private ProfilesBC profilesBC = new ProfilesBC((new DataBasesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString)).ConnectionString());
+        private FilesBC filesBC = new FilesBC((new DataBasesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString)).ConnectionString());*/
+
+        private ProfilesBC profilesBC = new ProfilesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ToString());
+        private FilesBC filesBC = new FilesBC(System.Configuration.ConfigurationManager.ConnectionStrings["DefaultConnection"].ToString());
+
         private DDL_FileWS.FileWSSoapClient fileWS;
 
         protected void Page_Load(object sender, EventArgs e)

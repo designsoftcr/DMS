@@ -201,13 +201,13 @@
     <comment>&lt;%$ Resources:Language, ERROR_SPREADSHEET_REQUIRED %&gt;</comment>
   </data>
   <data name="LABEL_403_MESSAGE_1" xml:space="preserve">
-    <value>Su cuenta requiere permisos adicionales</value>
+    <value>Tiempo expirado por no uso del sistema</value>
   </data>
   <data name="LABEL_403_MESSAGE_2" xml:space="preserve">
     <value>Si tiene alguna duda póngase en contacto con</value>
   </data>
   <data name="LABEL_403_TITLE" xml:space="preserve">
-    <value>Acceso denegado</value>
+    <value>Sessión Expirada</value>
   </data>
   <data name="LABEL_500_MESSAGE_1" xml:space="preserve">
     <value>Por favor intente de nuevo su transacción</value>

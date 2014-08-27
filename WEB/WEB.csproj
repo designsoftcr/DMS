@@ -188,6 +188,7 @@
     <Content Include="Content\img\logo.jpg" />
     <Content Include="Content\img\logo.png" />
     <Content Include="Content\js\flaty.js" />
+    <Content Include="Content\js\Validaciones.js" />
     <Content Include="Default.aspx" />
     <Content Include="Error.aspx" />
     <Content Include="Forbidden.aspx" />
@@ -451,6 +452,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Content\font\" />
     <Folder Include="Module\DataLoad\Uploads\" />
+    <Folder Include="Template\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Service References\DDL_FileWS\FileWS.wsdl" />
