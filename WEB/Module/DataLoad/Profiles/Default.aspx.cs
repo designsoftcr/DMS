@@ -64,7 +64,8 @@ namespace WEB.Module.DataLoad.Profiles
         {
             profilesBC.Insert(TBProfileName.Text.ToString().Trim(),
                 DDLStoreProcedures.SelectedValue.ToString().Trim(),
-                TBProfileDescription.Text.ToString().Trim());
+                TBProfileDescription.Text.ToString().Trim(),
+                TBPlantilla.Text.ToString().Trim());
 
             TBProfileName.Text = TBProfileDescription.Text = String.Empty;
 

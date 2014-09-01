@@ -30,11 +30,12 @@ namespace FSM.DAC.DDL
                 connection.Open();
                 transaction = connection.BeginTransaction();
 
-                using (SqlCommand query = new SqlCommand("INSERT INTO DDL_Profiles (ProfileId, Name, StoreProcedure, Description) VALUES (NEWID(), @Name, @StoreProcedure, @Description)", connection))
+                using (SqlCommand query = new SqlCommand("INSERT INTO DDL_Profiles (ProfileId, Name, StoreProcedure, Description, NOMBRE_PLANTILLA) VALUES (NEWID(), @Name, @StoreProcedure, @Description, @Plantilla)", connection))
                 {
                     query.Parameters.AddWithValue("@Name", x.Name);
                     query.Parameters.AddWithValue("@StoreProcedure", x.StoreProcedure);
                     query.Parameters.AddWithValue("@Description", x.Description);
+                    query.Parameters.AddWithValue("@Plantilla", x.Plantilla);
                     query.Transaction = transaction;
                     try
                     {

@@ -184,6 +184,24 @@ namespace WEB.Module.DataLoad.Profiles {
         protected global::System.Web.UI.WebControls.TextBox TBProfileDescription;
         
         /// <summary>
+        /// Control LBPlantilla.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LBPlantilla;
+        
+        /// <summary>
+        /// Control TBPlantilla.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TBPlantilla;
+        
+        /// <summary>
         /// Control LButtonClose.
         /// </summary>
         /// <remarks>

@@ -171,6 +171,12 @@
                             <asp:TextBox ID="TBProfileDescription" runat="server" CssClass="input-xlarge" TextMode="MultiLine" MaxLength="500"></asp:TextBox>
                         </div>
                     </div>
+                    <div class="control-group">
+                            <asp:Label ID="LBPlantilla" runat="server" CssClass="control-label" Text="Nombre Plantilla"></asp:Label>
+                            <div class="controls">
+                                <asp:TextBox ID="TBPlantilla" runat="server" CssClass="input-xlarge" MaxLength="50"></asp:TextBox>
+                            </div>
+                        </div>
                 </div>
             </div>
         </div>

@@ -23,9 +23,9 @@ namespace FSM.BC.DDL
             return profilesDAC.Select();
         }
 
-        public void Insert(string name, string storeProcedure, string description)
+        public void Insert(string name, string storeProcedure, string description, string plantilla)
         {
-            profilesDAC.Insert(new ProfilesBE(name, storeProcedure, description));
+            profilesDAC.Insert(new ProfilesBE(name, storeProcedure, description,  plantilla));
         }
 
         public void Update(string id, string name, string storeProcedure, string description, string plantilla)

@@ -16,11 +16,12 @@ namespace FSM.BE.DDL
 
         public ProfilesBE() { }
 
-        public ProfilesBE(string name, string storeProcedure, string description)
+        public ProfilesBE(string name, string storeProcedure, string description, string plantilla)
         {
             this.Name = name;
             this.StoreProcedure = storeProcedure;
             this.Description = description;
+            this.Plantilla = plantilla;
         }
 
         public ProfilesBE(Guid id, string name, string storeProcedure, string description, string plantilla)
