@@ -52,7 +52,7 @@
                 <div class="span6">
                     <div class="row-fluid tiles-group">
                         <div class="span12 tile-active">
-                            <a class="tile tile-fs-c" href="../Acount/Settings" data-stop="19000">
+                            <asp:HyperLink ID="HLAccountSettings" runat="server" NavigateUrl="~/Account/Settings" CssClass="tile tile-fs-c" data-stop="19000">
                                 <p class="title">
                                     <asp:Literal ID="LTAccountSettings" runat="server" Text="<%$ Resources:Language, LABEL_ACCOUNT_SETTINGS %>"></asp:Literal>
                                 </p>
@@ -60,8 +60,8 @@
                                     <asp:Literal ID="LTAccountRecomendation" runat="server" Text="<%$ Resources:Language, LABEL_ACCOUNT_RECOMENDATION %>"></asp:Literal>
                                 </p>
                                 <div class="img img-bottom"><i class="icon-user"></i></div>
-                            </a>
-                            <a class="tile tile-fs-c" href="../Account/Settings" data-stop="19000">
+                            </asp:HyperLink>
+                            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Account/Settings" CssClass="tile tile-fs-c" data-stop="19000">
                                 <p class="title">
                                     <asp:Literal ID="Literal2" runat="server" Text="<%$ Resources:Language, LABEL_ACCOUNT_SETTINGS %>"></asp:Literal>
                                 </p>
@@ -69,7 +69,7 @@
                                     <asp:Literal ID="Literal3" runat="server" Text="<%$ Resources:Language, LABEL_ACCOUNT_RECOMENDATION %>"></asp:Literal>
                                 </p>
                                 <div class="img img-bottom"><i class="icon-user"></i></div>
-                            </a>
+                            </asp:HyperLink>
                         </div>
                     </div>
                 </div>

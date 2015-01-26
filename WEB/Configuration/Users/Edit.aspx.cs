@@ -143,7 +143,7 @@ namespace WEB.Configuration.Users
                 }
                 string strNewPassword = string.Empty;
                 if(!string.IsNullOrEmpty(this.txtNewPassword.Text)){
-                    MembershipUser u = Membership.GetUser(User.Identity.Name);
+                    MembershipUser u = Membership.GetUser(strUserName);
                     //string strPass = u.GetPassword();
                     u.ChangePassword(u.ResetPassword(),this.txtNewPassword.Text);
                 }

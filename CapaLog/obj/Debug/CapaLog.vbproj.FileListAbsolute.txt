@@ -31,3 +31,9 @@ C:\Users\Jonathan\Source\Repos\DMS\CapaLog\obj\Debug\CapaLog.Resources.resources
 C:\Users\Jonathan\Source\Repos\DMS\CapaLog\obj\Debug\CapaLog.vbproj.GenerateResource.Cache
 C:\Users\Jonathan\Source\Repos\DMS\CapaLog\obj\Debug\CapaLog.dll
 C:\Users\Jonathan\Source\Repos\DMS\CapaLog\obj\Debug\CapaLog.pdb
+D:\Projects\DesignSoft\DMS\CapaLog\bin\Debug\CapaLog.dll
+D:\Projects\DesignSoft\DMS\CapaLog\bin\Debug\CapaLog.pdb
+D:\Projects\DesignSoft\DMS\CapaLog\obj\Debug\CapaLog.Resources.resources
+D:\Projects\DesignSoft\DMS\CapaLog\obj\Debug\CapaLog.vbproj.GenerateResource.Cache
+D:\Projects\DesignSoft\DMS\CapaLog\obj\Debug\CapaLog.dll
+D:\Projects\DesignSoft\DMS\CapaLog\obj\Debug\CapaLog.pdb

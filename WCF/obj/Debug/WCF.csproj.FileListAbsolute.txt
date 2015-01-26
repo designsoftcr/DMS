@@ -14,3 +14,8 @@ C:\Users\Jonathan\Source\Repos\DMS\WCF\bin\WCF.pdb
 C:\Users\Jonathan\Source\Repos\DMS\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
 C:\Users\Jonathan\Source\Repos\DMS\WCF\obj\Debug\WCF.dll
 C:\Users\Jonathan\Source\Repos\DMS\WCF\obj\Debug\WCF.pdb
+D:\Projects\DesignSoft\DMS\WCF\bin\WCF.dll
+D:\Projects\DesignSoft\DMS\WCF\bin\WCF.pdb
+D:\Projects\DesignSoft\DMS\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+D:\Projects\DesignSoft\DMS\WCF\obj\Debug\WCF.dll
+D:\Projects\DesignSoft\DMS\WCF\obj\Debug\WCF.pdb
